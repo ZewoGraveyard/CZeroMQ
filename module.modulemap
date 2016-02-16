@@ -1,5 +1,5 @@
 
-module CZmq [system] {
+module CLibzmq [system] {
     header "zmq_swift.h"
     export *
 }
