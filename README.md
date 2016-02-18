@@ -6,7 +6,7 @@ CLibzmq
 [![License MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat)](https://tldrlegal.com/license/mit-license)
 [![Slack Status](http://slack.zewo.io/badge.svg)](http://slack.zewo.io)
 
-**CLibpq** provides PostgreSQL for **Swift 2.2**.
+**CLibzmq** provides ZeroMQ for **Swift 2.2**.
 
 ## Installation
 
