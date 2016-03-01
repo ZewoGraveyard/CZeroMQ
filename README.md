@@ -6,7 +6,7 @@ CLibzmq
 [![License MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat)](https://tldrlegal.com/license/mit-license)
 [![Slack Status](http://slack.zewo.io/badge.svg)](http://slack.zewo.io)
 
-**CLibzmq** provides ZeroMQ for **Swift 2.2**.
+**CZeroMQ** provides ZeroMQ for **Swift 2.2**.
 
 ## Installation
 
@@ -22,7 +22,7 @@ import PackageDescription
 
 let package = Package(
 	dependencies: [
-		.Package(url: "https://github.com/Zewo/CLibzmq.git", majorVersion: 1)
+		.Package(url: "https://github.com/Zewo/CZeroMQ.git", majorVersion: 1)
 	]
 )
 
@@ -37,4 +37,4 @@ Join us on [Slack](http://slack.zewo.io).
 License
 -------
 
-**CLibzmq** is released under the MIT license. See LICENSE for details.
+**CZeroMQ** is released under the MIT license. See LICENSE for details.
