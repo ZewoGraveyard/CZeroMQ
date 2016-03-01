@@ -15,7 +15,7 @@ CZeroMQ
 $ apt-get install libzmq-dev
 ```
 
-- Add `CLibzmq` to your `Package.swift`
+- Add `CZeroMQ` to your `Package.swift`
 
 ```swift
 import PackageDescription
