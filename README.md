@@ -6,7 +6,7 @@ CZeroMQ
 [![License MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat)](https://tldrlegal.com/license/mit-license)
 [![Slack Status](http://slack.zewo.io/badge.svg)](http://slack.zewo.io)
 
-**CZeroMQ** provides ZeroMQ for **Swift 2.2**.
+**CZeroMQ** provides ZeroMQ for **Swift 3.0**.
 
 ## Installation
 
