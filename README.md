@@ -12,7 +12,7 @@ CZeroMQ
 
 
 ```bash
-$ apt-get install libzmq-dev
+$ sudo apt-get install libzmq3-dev
 ```
 
 - Add `CZeroMQ` to your `Package.swift`
