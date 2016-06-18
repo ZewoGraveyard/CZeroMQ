@@ -1,5 +1,6 @@
 import PackageDescription
 
 let package = Package(
-    name: "CZeroMQ"
+    name: "CZeroMQ",
+    pkgConfig: "libzmq"
 )
